@@ -4,7 +4,7 @@ body {
 
 .show1 {
   padding: 15px;
-  background-color: #7A7593;
+  background-color: #7a7593;
   width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -20,7 +20,7 @@ body {
   padding: 15px;
   font-size: 30px;
   color: #fff;
-  background-color: #88839e;  
+  background-color: #88839e;
 }
 .dinner:nth-child(2n-1) {
   background-color: #7a7593;
@@ -33,11 +33,14 @@ body {
   font-size: 25px;
   text-align: center;
   color: brown;
-  background-color:#625E77;
+  background-color: #625e77;
 }
 label span {
-    font-size: 20px;
+  font-size: 20px;
 }
 .dinner:hover {
-    border: 2px solid white;
+  border: 2px solid white;
+}
+h1. {
+  color: blue;
 }
